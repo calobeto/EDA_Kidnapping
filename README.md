@@ -9,4 +9,7 @@ The project consist on two notebooks : WebScraping_Desaparecidos.ipynb that coll
 
 ## Statistics
 The plots arrived to the following conclusions : 
-1. The web page was launched in 2016 so we no have real data on 2016, 2017 and 2018. 
+1. The web page was launched in 2016 so the quantities of kidnapping are not real on 2016, 2017 and maybe 2018.
+2. The age range most likely to be kidnapped is between 12 and 18 years old.
+3. Women are three times more likely to be abducted.
+4. Lima is the department with the most disappeared people in Peru. Junin follows although it has much less population than other departments in Peru.
